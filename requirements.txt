@@ -1,0 +1,5 @@
+gym
+jupyter
+mlagents==0.25
+mlagents-envs==0.25
+gym_unity==0.25
